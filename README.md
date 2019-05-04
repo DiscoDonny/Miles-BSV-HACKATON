@@ -17,11 +17,11 @@ Onboarding to BitCoin SV is a two-fold problem.
   - Familiarize people with the technology and generate awareness about the benefits of BitCoin SV
 
 
-Distribution of BSV
+DISTRIBUTION OF BSV
 
 A much-discussed issue is how to enable people to obtain BitCoin SV. This is in my opinion a problem that can easily be solved and will resolve itself if there is sufficient demand for applications that utilize the unique characteristics that only Bitcoin SV can offer. In addition, this problem can also be easily solved by application suppliers if they work with a subscription fee where they accept Fiat money and implement a BitPipe (https://github.com/unwriter/bitpipe) solution to facilitate BitCoin transactions for end-users. This way the end-user does not even have to be aware that BitCoin SV is being used.
 
-Familiarize people with technology and benifits of BitCoin SV
+FAMILIARIZE PEOPLE WITH THE TECHNOLOGY AND BENIFITS OF BITCOIN SV
 
 The real problem with onboarding as I view it is to get enough people familiar with the technology and to make them aware of the added value that BitCoin SV has to offer. If you succeed in this, demand will naturally arise. You can achieve this by offering applications that demonstrate the different facets of BitCoin SV.
 
