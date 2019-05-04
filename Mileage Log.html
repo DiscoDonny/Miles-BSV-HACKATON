@@ -118,9 +118,9 @@
     <input type="text" id="userID" name="userID" placeholder="user ID">
     <br><br><br>
 
-  <label for="BP"><strong>&nbsp;&nbsp;&nbsp;&nbsp;Purpose of travel:</strong></label><br>
+  <label for="Purpose of travel"><strong>&nbsp;&nbsp;&nbsp;&nbsp;Purpose of travel:</strong></label><br>
 
-  <select id="BP" name="BP">
+  <select id="PurposeOfTravel" name="PurposeOfTravel">
   <option value="Business">Business</option>
   <option value="Private">Private</option>
   <option value="Business">Commute</option>
@@ -128,18 +128,18 @@
   </select>
 
   <br><br>
-  <input type="text" id="pOT" name="pOT" cols="50" rows="2" style="min-width: 30%" placeholder="Destination">
+  <input type="text" id="Destination" name="Destination" cols="50" rows="2" style="min-width: 30%" placeholder="Destination">
   <br><br><br>
 <label><strong>&nbsp;&nbsp;&nbsp;&nbsp;Odometer readings:</strong></label><br>
-<input type="text" id="start" name="start" placeholder="Start">
+<input type="text" id="Start" name="Start" placeholder="Start">
 <br><br>
-<input type="text" id="end" name="end" placeholder="End">
+<input type="text" id="End" name="End" placeholder="End">
 <br>
 
 <br><br>
 <label><strong>&nbsp;&nbsp;&nbsp;&nbsp;Trip-related costs and/or Comments</strong></label>
 <input type="radio" onclick="ToggleTB();" checked />
-<div id="divText" style="display:none;"><textarea type="text" id="addComments" name="addComments" cols="50" rows="2"  style="min-width: 30%"></textarea></div>
+<div id="divText" style="display:none;"><textarea type="text" id="Comments" name="Comments" cols="50" rows="2"  style="min-width: 30%"></textarea></div>
 <br><br>
 <input type="submit" value="Ready">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button type="reset" id="reset">Reset</button>
 <br><br><hr><br>
@@ -158,11 +158,11 @@ function mileageLog()
   // construct JSON object from HTML fields
   var mileageLogObj = {};
   mileageLogObj["userID"] = "Miles"+ document.getElementById("userID").value;
-  mileageLogObj["BP"] = document.getElementById("BP").value;
-  mileageLogObj["pOT"] = document.getElementById("pOT").value;
-  mileageLogObj["start"] = document.getElementById("start").value;
-  mileageLogObj["end"] = document.getElementById("end").value +"\n";
-  mileageLogObj["addComments"] = document.getElementById("addComments").value;
+  mileageLogObj["PurposeOfTravel"] = document.getElementById("PurposeOfTravel").value;
+  mileageLogObj["Destination"] = document.getElementById("Destination").value;
+  mileageLogObj["Start"] = document.getElementById("Start").value;
+  mileageLogObj["End"] = document.getElementById("End").value;
+  mileageLogObj["Comments"] = document.getElementById("Comments").value;
   var jsonmileageLog = JSON.stringify(mileageLogObj);
 
 	  moneyButton.render(div, {
