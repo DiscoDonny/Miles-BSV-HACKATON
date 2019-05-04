@@ -12,6 +12,15 @@ WHAT IS MILES?
 --------------
 Miles is an simple mileage log application that leverages the unique properties of Bitcoin SV.
 
+•	Your data remains yours. The data you record is stored on BitCoin SV and is not sold to any third parties as with comparable “free” application. You are yourself free to sell your data to any third parties you like for BSV by providing access to your data. 
+
+•	If the mileage is registered to be able to claim a travel allowance, you can provide immediate access to your data so that you can be automatically compensated in BSV.
+
+•	Pay per use. Whenever you want to stop using it, you can without losing any money.
+
+•	You don’t lose data if you lose your phone or stop using the app. All you data is safely stored on BitCoin SV as long as needed so it is available in case you are audited years later. 
+
+
 
 
 VISION ON ONBOARDING
