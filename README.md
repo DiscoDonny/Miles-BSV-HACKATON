@@ -23,7 +23,7 @@ A much-discussed issue is how to enable people to obtain BitCoin SV. This is in 
 
 Familiarize people with technology and benifits of BitCoin SV
 
-The real problem with onboarding is to get enough people familiar with the technology and to make them aware of the added value that BitCoin SV has to offer them. If you succeed in this, demand will naturally arise. You can achieve this by offering applications that demonstrate the different facets of BitCoin SV.
+The real problem with onboarding as I view it is to get enough people familiar with the technology and to make them aware of the added value that BitCoin SV has to offer. If you succeed in this, demand will naturally arise. You can achieve this by offering applications that demonstrate the different facets of BitCoin SV.
 
 
 
