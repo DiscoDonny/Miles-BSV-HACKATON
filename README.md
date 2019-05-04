@@ -10,7 +10,7 @@ THE ADDED VALUE OF ADMINISTRATION ON BITCOIN
 --------------------------------------------
 BitCoin has great added value for many administrative operations. In particular if the administration is intended as evidence for internal or external control. In evidence, important elements to record are: Who, What, Where, Why, When.
 
-BitCoin has clear added value in particular in regard to Who and When.
+BitCoin has clear added value in particular in regard to Who and When:
 
   - Who is provable thanks to the use of a public and private key
   
