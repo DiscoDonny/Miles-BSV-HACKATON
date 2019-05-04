@@ -5,7 +5,7 @@ Miles - BITCOIN SV HACKATHON May 2019
 
 WHAT IS MILES?
 --------------
-Miles is an simple mileage registration application that leverages the unique properties of Bitcoin SV.
+Miles is an simple mileage registration log application that leverages the unique properties of Bitcoin SV.
 
 
 
