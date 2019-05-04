@@ -3,7 +3,7 @@
 BITCOIN SV HACKATHON May 2019
 --------------------------------------------------------------
 
-This application is intended as an entry for the BSV Hackathon May 2019. The intent of this entry is to compete as "concept" rather than competing in the field of innovative code or as an innovative technical solution. Since I was not trained as a developer, I certainly do not have the illusion that I can compete with my fellow candidates in this area. This concept is intended to demonstrate a commercially viable use case that has clear added value and benefits over comparable solutions that are currently available because it utilizes BitCoin SV.
+This application is intended as an entry for the BSV Hackathon May 2019. The intent of this entry is to compete as "concept" rather than competing in the field of innovative code or as an innovative technical solution. Since I was not trained as a developer, I certainly do not have the illusion that I can compete with my fellow candidates in this area. This concept is intended to demonstrate a commercially viable use case that has clear added value and benefits over comparable solutions that are currently available because it utilizes BitCoin SV. 
 -
 --------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Miles is an simple mileage log application that leverages the unique properties 
 
 •	Your data remains yours. The data you record is stored on BitCoin SV and is not sold to any third parties as with comparable “free” application. You are free to sell your data to any third parties you like for BSV by providing access to your data. 
 
-•	If the mileage is registered to be able to claim travel expenses, you can provide access to your data so that you can be automatically compensated in BSV.
+•	If the mileage is registered to be able to claim business expenses or tax refunds, you can provide access to your data so that you can be automatically compensated in BSV.
 
 •	Pay per use. Whenever you want to stop using it, you can without losing any money.
 
