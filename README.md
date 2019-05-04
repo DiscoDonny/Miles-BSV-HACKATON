@@ -2,7 +2,7 @@
 
 BITCOIN SV HACKATHON May 2019
 --------------------------------------------------------------
--
+
 This application is intended as an entry for the BSV Hackathon May 2019. The intention of this entry is to compete as a "concept" rather than competing in the field of innovative code or as an innovative technical solution. Since I was not trained as a developer, I certainly do not have the illusion that I can compete with my fellow candidates in this area. This concept is intended to demonstrate a commercially viable use case that has clear added value and benefits over comparable solutions that are currently available because it utilizes BitCoin SV.
 -
 --------------------------------------------------------------
