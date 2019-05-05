@@ -28,6 +28,12 @@ C. Basic Application (read)
     -5. Visualisation of a Miles Log extract
    
 
+References 
+-------
+https://faucet.allaboard.cash/
+https://www.moneybutton.com/
+https://bitvavo.com/en
+https://oyo.cash/
 
 
 
@@ -67,7 +73,6 @@ BitCoin has a number of special qualities that are of particular interest for bu
 BitCoin has clear added value in particular in regard to Who and When:
 
   - Who is provable thanks to the use of a public and private key
-  
   - When is provable thanks to a generated timestamp
 
 The aspects What, Where and Why must be recorded by the user. BitCoin cannot prevent human errors in administrative actions, but it does make fraud considerably more difficult and much easier to trace.
