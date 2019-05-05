@@ -57,8 +57,7 @@ A much-discussed issue is how to enable people to obtain BitCoin SV. This is in 
 
 FAMILIARIZE PEOPLE WITH THE TECHNOLOGY AND BENIFITS OF BITCOIN SV
 
-The real problem with onboarding as I view it is to get enough people familiar with the technology and to make them aware of the added value that BitCoin SV has to offer. If you succeed in this, demand will naturally arise. You can achieve this by offering applications that demonstrate the different facets of BitCoin SV.
-
+The real problem with onboarding as I view it is to get enough people familiarized with the technology and to make them aware of the added value that BitCoin SV has to offer. How to use a wallet as MoneyButton and how to buy BitCoin SV. If you succeed in this, demand will naturally arise and supply will follow. You can achieve this by offering applications that demonstrate the different facets of BitCoin SV.
 
 
 THE ADDED VALUE OF ADMINISTRATION ON BITCOIN 
