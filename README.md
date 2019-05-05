@@ -30,10 +30,10 @@ C. Basic Application (read)
 
 References 
 -------
-https://faucet.allaboard.cash/
-https://www.moneybutton.com/
-https://bitvavo.com/en
-https://oyo.cash/
+https://faucet.allaboard.cash/ | 
+https://www.moneybutton.com/ | 
+https://bitvavo.com/en | 
+https://oyo.cash/ | 
 
 
 
