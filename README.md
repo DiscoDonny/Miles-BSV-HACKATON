@@ -38,7 +38,7 @@ References to third party tools
 https://faucet.allaboard.cash/ | 
 https://www.moneybutton.com/ | 
 https://bitvavo.com/en | 
-https://oyo.cash/ | 
+https://oyo.cash/  
 
 
 
