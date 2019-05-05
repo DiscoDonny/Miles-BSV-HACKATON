@@ -30,8 +30,10 @@ C. Basic Application (read)
   
     -5. Visualisation of a Miles Log extract
    
+   https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20User%20instruction%20Manual.pdf
+   
 
-References 
+References to third party tools
 -------
 https://faucet.allaboard.cash/ | 
 https://www.moneybutton.com/ | 
