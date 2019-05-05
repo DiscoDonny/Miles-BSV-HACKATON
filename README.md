@@ -10,7 +10,8 @@ Miles is created as an entry for the BSV Hackathon May 2019. The intent of this 
 Content
 -------
 A. Onboarding scheme 
-   https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
+
+     - https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
 
 B. Basic Application (write)
 
