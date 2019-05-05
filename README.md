@@ -16,6 +16,7 @@ A. Onboarding scheme
 B. Basic Application (write)
 
     -1. Create User-ID.html
+   https://bico.media/f5b1f288571aafb298224c3b01e05da9c1fb3ffbc7ec24c1abcce901ff8d1a59?aaa=vbdz&bbb=zdfgd
   
     -2. Mileage Log.html
   
