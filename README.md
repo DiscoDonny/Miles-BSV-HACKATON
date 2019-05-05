@@ -9,16 +9,22 @@ Miles is created as an entry for the BSV Hackathon May 2019. The intent of this 
 
 Content
 -------
-A. Onboarding scheme https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
+A. Onboarding scheme 
+   https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
 
 B. Basic Application (write)
-  -1. Create User-ID.html
-  -2. Mileage Log.html
-  -3. FAQ.html
+
+    -1. Create User-ID.html
+  
+    -2. Mileage Log.html
+  
+    -3. FAQ.html
   
 C. Basic Application (read)
-  -4. Search with Oyo.cash
-  -5. Visualisation of a Miles Log extract
+
+    -4. Search with Oyo.cash
+  
+    -5. Visualisation of a Miles Log extract
    
 
 
