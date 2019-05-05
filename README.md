@@ -11,7 +11,7 @@ Content
 -------
 A. Onboarding scheme 
 
-     - https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
+     https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
 
 B. Basic Application (write)
 
