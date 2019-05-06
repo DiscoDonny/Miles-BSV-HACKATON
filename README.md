@@ -102,7 +102,8 @@ C. Basic Application (read)
    https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20User%20instruction%20Manual.pdf
    
 D. Wishlist
-   - 6. List of features and options I would like to include if I had a budget and a team to make this app into reality. 
+     
+     -6. List of features and options I would like to include if I had a budget and a team to make this app into reality. 
 
 
 References to third party tools
