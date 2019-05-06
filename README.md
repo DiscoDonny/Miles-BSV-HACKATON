@@ -3,7 +3,7 @@
 BITCOIN SV HACKATHON May 2019
 --------------------------------------------------------------
 
-Miles is created as an entry for the BSV Hackathon May 2019. The intent of this entry is to compete with an "minimum viable product" in combination with an "onboarding scheme" rather than competing in the field of innovative coding or as innovative technical solution. This concept demonstrates a commercially viable product that utilizes BitCoin SV. It has clear added value over comparable solutions currently available. But more important it demonstrates an scheme for onboarding for simulair application. 
+This project is made as entry for the BSV Hackathon May 2019. The purpose of this entry is to participate in the competition with an "onboarding scheme" in combination with an application concept. The application concept mainly serves as an example of an app business or the general public would find useful today and that could implement the proposed onboarding scheme. The objective of this entry is to stand out in the competition not in the field of innovative coding or to create an high tech technical solution (this is not my skillset, I am not software developer) but by proposing an actual solution that could be out there and viable in a matter of a couple of weeks. The application concept demonstrates an commercially viable product that utilizes BitCoin SV. Also because it is build on BitCoin SV it has advantages over comparable solutions currently available. The entry concludes with a wishlist of features I would have like to include if I had the team and budget to make this into a real application available for the general public in mobile app stores.
 -
 --------------------------------------------------------------
 
