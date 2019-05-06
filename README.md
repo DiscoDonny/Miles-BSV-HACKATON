@@ -68,8 +68,8 @@ The Write Once, Read Many (WORM) quality of BitCoin and the decentralized data s
 
 --------------------------------------------------------------
 
-Content
--------
+CONTENTOF REPOSITORY
+--------------------
 A. The Onboarding scheme 
 
    The different phases are explained visually and in more detail in the follwing document: 
@@ -91,11 +91,12 @@ C. Basic Application (read)
 
     -4. Search example with Oyo.cash
   
-    -5. Visualisation of a Miles Log extract
+    -5. Visualisation of a posible Log history overview
    
    https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20User%20instruction%20Manual.pdf
    
 D. Wishlist
+   - 6. List of features and options I would like to include if I had a budget and a team to make this app into reality. 
 
 
 References to third party tools
