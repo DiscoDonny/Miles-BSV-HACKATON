@@ -9,7 +9,7 @@ This project is made as entry for the BSV Hackathon May 2019. The purpose of thi
 
 Content
 -------
-A. Onboarding scheme 
+A. The Onboarding scheme 
 
    https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
 
@@ -26,12 +26,14 @@ B. Basic Application (write)
   
 C. Basic Application (read)
 
-    -4. Search with Oyo.cash
+    -4. Search example with Oyo.cash
   
     -5. Visualisation of a Miles Log extract
    
    https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20User%20instruction%20Manual.pdf
    
+D. Wishlist
+
 
 References to third party tools
 -------
