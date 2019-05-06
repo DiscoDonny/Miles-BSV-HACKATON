@@ -11,7 +11,14 @@ Content
 -------
 A. The Onboarding scheme 
 
+   The proposed onboarding scheme is a “freemium” model but differently as it doesn’t rely on adds or data collection to be sold to    advertisers. It allows new users to use, experience an application build on BitCoin SV and learn what BitCoin SV can do. The best way to introduce people is to let them use a tool they already need for business expenses and/or tax deductions such as keeping a mileage log. That why I created the Miles application concept. But the onboarding scheme could work on other similar useful applications as well.
+
+   Important is that the application doesn’t focus on the “value” aspect of BitCoin SV other than it’s needed to obtain the “added     value” it has because it is built on BitCoin SV.  Another important aspect is that this “freemium” model incentivizes users to onboard and learn how to do this themselves up to a point they stop using the freemium model because it is more convenient to become a paying customer.  
+
+   The different phases are explained in more detail in the follwing document: 
    https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20Onboarding%20scheme.pdf
+
+
 
 B. Basic Application (write)
 
