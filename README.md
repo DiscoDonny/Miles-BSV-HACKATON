@@ -74,7 +74,7 @@ Not only would this app be more usefull and would it opens up new possibilities 
 
 --------------------------------------------------------------
 
-CONTENTOF REPOSITORY
+REPOSITORY CONTENT
 --------------------
 A. The Onboarding scheme 
 
