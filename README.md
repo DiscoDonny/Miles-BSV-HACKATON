@@ -104,6 +104,7 @@ C. Basic Application (read)
     -5. Visualisation of a posible Log history overview
    
    https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles%20-%20User%20instruction%20Manual.pdf
+   https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles-analyze.xlsx
    
 D. Wishlist
      
