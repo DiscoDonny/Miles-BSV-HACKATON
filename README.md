@@ -65,6 +65,12 @@ The aspects What, Where and Why must be recorded by the user. BitCoin cannot pre
 
 The Write Once, Read Many (WORM) quality of BitCoin and the decentralized data storage ensure that once data has been recorded it cannot be changed by anyone afterwards and that all mutations are transparent.
 
+PRICING
+-
+Not only would this app be more usefull and would it opens up new possibilities for how to manage data such a mileage logs, but it would also proof to be a cheaper options than currently available. Even cheaper than buying a Paper Mileage Log on Amazon that go for around 6 to 10 usd. 
+
+      • Specification of pricing schemes (to be included). 
+   
 
 --------------------------------------------------------------
 
