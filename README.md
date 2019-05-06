@@ -11,10 +11,10 @@ THE BASIS APPLICATION
 -
 Miles is an digital mileage log application that leverages the unique properties of BitCoin SV. The app proposal itself is fairly simple. It’s a digital mileage log that allows people to submit mileage logs to BitCoin SV with an simple Op-Return transaction. The data entries are publicly readable for now but because unique user ID’s are used no personal information can be linked without knowing the User ID, especially at scale. The app provides a way to generated a unique User ID in a way that no personal data has to be stored on any server or on BitCoin SV, but can easily be retrieved with the correct license plate and a password.
 
-   -Pay per use. Whenever you want to stop using it you can, without losing any money on prepaid apps or subscriptions.
-   -You don’t lose data if you lose your phone or stop using the app. All you data is safely stored on BitCoin SV as long as        needed so it is available in case you are audited years later.
-   -You own your data and it remains yours. The data you record is stored on BitCoin SV and is not sold to any third parties as          with comparable “free” application. But you are free to sell your data to any third parties you like for BSV by providing           access to your data and User ID.
-   - If the mileage is registered to be able to claim business expenses or tax refunds, you can provide access to your data so that you can be automatically compensated in BSV.
+      -Pay per use. Whenever you want to stop using it you can, without losing any money on prepaid apps or subscriptions.
+      -You don’t lose data if you lose your phone or stop using the app. All you data is safely stored on BitCoin SV as long as        needed so it is available in case you are audited years later.
+    -You own your data and it remains yours. The data you record is stored on BitCoin SV and is not sold to any third parties as          with comparable “free” application. But you are free to sell your data to any third parties you like for BSV by providing           access to your data and User ID.
+      - If the mileage is registered to be able to claim business expenses or tax refunds, you can provide access to your data so that you can be automatically compensated in BSV.
 
      
 ONBOARDING VISION
