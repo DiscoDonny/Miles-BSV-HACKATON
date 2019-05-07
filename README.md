@@ -111,7 +111,7 @@ C. Basic Application (read)
    
 D. Wishlist
    
-features and options I would like to include if I had a budget and a team to make this app into reality. 
+Features and options I would like to include if I had a budget and a team to make this app into reality. 
 
 The grand vision is to create a simple mobile app that allows anyone to "write" all kinds of administrative data to BitCoin SV via standardized templates that complies with applicable rules and legislation.My conceptis focused on Mileage logs, but can easily be extended to all kinds of work-related administrative tasks such as timesheets, checklists and workflows.
 
