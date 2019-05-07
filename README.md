@@ -29,11 +29,14 @@ Onboarding to BitCoin SV is a two-fold problem:
     • Familiarize people with the technology and generate awareness about the benefits BitCoin SV has to offer over.
 
 DISTRIBUTION OF BSV
+
 A much-discussed issue is how to enable people to obtain BitCoin SV. This is in my opinion a problem that can easily be solved and will resolve itself over time if there is sufficient demand for applications that utilize the unique characteristics that only Bitcoin SV can offer. In addition, this problem can also be easily solved by application suppliers if they work with a subscription model where they accept fiat money and implement a BitPipe (https://github.com/unwriter/bitpipe) solution to facilitate the BitCoin transactions for end-users. This way the end-user does not even have to be aware that BitCoin SV is being used.
 
 FAMILIARIZE PEOPLE WITH THE TECHNOLOGY AND BENIFITS OF BITCOIN SV
+
 The real problem with onboarding as I view it is to get enough people familiarized with the technology and to make them aware of the added value that BitCoin SV has to offer. How to use a wallet as MoneyButton and how to buy BitCoin SV. If you succeed in this, demand will naturally arise and supply will follow. You can achieve this by offering applications that demonstrate the different facets of BitCoin SV.
 
+When we think of onboarding, we must keep in mind who the target group is. They are average people who go to work every day to provide for the needs of their families. A wealthy group with superficial knowledge of technology and little to no knowledge of BitCoin. We need to create apps that meet their daily needs and make their lives easy. Miles could become such an app.
 
 ONBOARDING SCHEME
 -
@@ -107,8 +110,17 @@ C. Basic Application (read)
    https://github.com/DiscoDonny/Miles-BSV-HACKATON/blob/master/Miles-analyze.xlsx
    
 D. Wishlist
-     
-     -6. List of features and options I would like to include if I had a budget and a team to make this app into reality. 
+   
+features and options I would like to include if I had a budget and a team to make this app into reality. 
+
+The grand vision is to create a simple mobile app that allows anyone to "write" all kinds of administrative data to BitCoin SV via standardized templates that complies with applicable rules and legislation.My conceptis focused on Mileage logs, but can easily be extended to all kinds of work-related administrative tasks such as timesheets, checklists and workflows.
+
+"Reading, visualizing and analyzing" data registered with BitCoin SV, only basis examples should be created. A marketplace should be facilitated, to allow third parties to create and offer all sorts of solutions for reading, visiualizing and analyzing data the user logged to BitCoin SV. For the user it should be as easy as scrolling true an add-on store and buying an add-on for a small fee. This could include a marketplace for selling your own data to third parties such as the Big Data industry.
+
+Summary
+
+- Mobile apps (androing/iPhone) for writing to SV
+- Marketplaces for buying add-ons for reading/visualizing/analyzing your data and to allow selling your data.
 
 
 References to third party tools
