@@ -85,7 +85,7 @@ Simple calculation of costs befor profit
       730 logs x 565 satoshi = 412.450 satoshi 
       412.450 satoshi = around 0,25 USD a year tx cost for miners. 
 
-I most have made a mistake in the calulations above, but if correct the potential profit margin is huge considdering the prices of alternatives. 
+I most have made a mistake in the calulations above, but if correct the potential profit margin for the app is huge considdering the prices of alternatives.
 
 --------------------------------------------------------------
 
