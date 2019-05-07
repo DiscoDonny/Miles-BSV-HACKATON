@@ -77,7 +77,15 @@ PRICING
 Not only would this app be more usefull and would it opens up new possibilities for how to manage data such a mileage logs, but it would also proof to be a cheaper options than currently available. Even cheaper than buying a Paper Mileage Log on Amazon that go for around 6 to 10 usd. 
 
       • Specification of pricing schemes (to be included). 
-   
+
+Simple calculation of costs befor profit   
+      USD/BSV exchange price today (7-5-2019):  $1 = 1887000 satoshi BSV 
+      TX cost of a simple Op-Return transaction as used for Miles is something like 565 satoshi.
+      With 2 logs a day: 2 x 365 days = 730 logs per year
+      730 logs x 565 satoshi = 412.450 satoshi 
+      412.450 satoshi = around 0,25 USD a year tx cost for miners. 
+
+I most have made a mistake in the calulations above, but if correct the potential profit margin is huge considdering the prices of alternatives. 
 
 --------------------------------------------------------------
 
